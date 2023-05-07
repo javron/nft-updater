@@ -1,0 +1,14 @@
+{
+    "token": "cdb8196620cb4f.0873c1f9158f440fb93fc1ff538bb0cb",
+    "projectId": 2,
+    "description":"This is an NFT",
+    "symbol":"Choco Boy",
+    "attributes": {
+      "Points": "40000",
+      "Nickname": "Choco Boy"
+    },
+    "imageUrl": "https://uploads-ssl.webflow.com/6320eecd0f98b4666b218021/63f0f42c0b3cfe430608b931_Early%20Adopter%20NFT_Final.webp",
+    "environment": "dev",
+    "transferable": "n"
+  }
+  
